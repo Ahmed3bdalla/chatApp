@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235153673019",
+    "project_id": "talku-daf46",
+    "storage_bucket": "talku-daf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235153673019:android:e7df1c72ccec2c13b2c51e",
+        "android_client_info": {
+          "package_name": "com.example.talku_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4YbWUWIT7Cb8eIVfrIAi5puJhFgehxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
